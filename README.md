@@ -57,3 +57,7 @@ The stats screen (accessible with the `--stats` flag) displays a variety of trac
 - Best Streak
 - Guess Distribution
 - Average Guess Count
+
+## Fun Fact!
+
+The first repeat word from the following day is on September 15th, 2040 with the word salps.
